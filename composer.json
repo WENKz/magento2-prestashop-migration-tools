@@ -13,9 +13,7 @@
     ],
     "version": "1.0.0",
     "require": {
-        "php": ">=5.4.0",
-        "monolog/monolog": "^1.17",
-        "symfony/options-resolver": "^3.2"
+        "php": ">=5.4.0"
     },
     "require-dev": {
         "magento/framework": "~101.0.0"
